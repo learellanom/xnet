@@ -1,0 +1,21 @@
+
+
+Requisitos
+
+El proyecto se desarrollo con la siguiente tecnologia
+
+a. sistema operativo windows
+b. Laravel 
+c. xampp
+d. composer
+
+
+1. Clonar el proyecto o colocarlo en un directorio de xampp para ejecutar
+2. en el directorio ejecutar composer install
+3. crear base de datos xnetnotas
+4. correr migraciones con : php artisan migrate
+5. restaurar el respaldo xnotas.sql del directorio del proyecto llamdado instalacion
+6. ejecutar el comando npm run dev
+7. ejecutar el url del proyecto 
+8. todos los usuarios tienen la clave 12345678
+
